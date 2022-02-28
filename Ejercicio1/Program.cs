@@ -1,10 +1,12 @@
 ﻿using System;
 
-/*Create a C# program that requests three names of people from the user and stores 
- * them in an array of objects of type Person. To do this, first create a Person class 
- * that has a Name property of type string and override the ToString() method.
-
-End the program by reading people and executing the ToString() method on the screen.*/
+/*
+Crear un programa en C# que solicite al usuario tres nombres de personas y los almacene 
+en un array de objetos de tipo Persona. Para ello, cree primero una clase Persona 
+que tenga una propiedad Nombre de tipo string. 
+Además, la clase persona debe sobreescribir el método ToString() produciendo el siguiente resultado: "Hola! mi nombre es {Nombre}.".
+Finalizar el programa ejecutando el método ToString() para cada persona en la pantalla. 
+ */
 
 namespace Ejercicio1
 {
