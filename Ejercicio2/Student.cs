@@ -4,7 +4,7 @@ namespace Ejercicio2
 {
     public class Student : Person
     {
-        public void Study()
+        public static void Study()
         {
             Console.WriteLine("Estoy estudiando!");
         }

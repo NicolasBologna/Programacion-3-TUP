@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Ejercicio1
 {
-    class Persona
+    public class Persona
     {
         public Persona(string nombre)
         {
             Nombre = nombre;
         }
 
-        public string Nombre { get; set; }
+        public string Nombre { get; private set; }
 
         public override string ToString()
         {
