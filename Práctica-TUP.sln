@@ -35,6 +35,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaLinq", "Linq\Practi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqTests", "LinqTests\LinqTests.csproj", "{9ABFB0C3-2F2B-4F8F-8887-450B988FED55}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentacion", "Documentacion", "{EE0ED400-7332-4124-AD44-A7955077BA0E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQCheatSheet", "LINQ-Sheet-Cheat\LINQCheatSheet.csproj", "{727DA161-87D4-4A2F-AF88-C90CF9947AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +77,10 @@ Global
 		{9ABFB0C3-2F2B-4F8F-8887-450B988FED55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ABFB0C3-2F2B-4F8F-8887-450B988FED55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ABFB0C3-2F2B-4F8F-8887-450B988FED55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727DA161-87D4-4A2F-AF88-C90CF9947AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727DA161-87D4-4A2F-AF88-C90CF9947AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727DA161-87D4-4A2F-AF88-C90CF9947AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727DA161-87D4-4A2F-AF88-C90CF9947AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +99,7 @@ Global
 		{6C14A681-0CAC-4691-A7D8-6A9714A91E22} = {B518DE58-7D6E-4DCB-87EA-FDFB17C8B910}
 		{4311AC5D-0A2C-46BD-8914-83DC96A54979} = {7C0F2F76-CE9F-49EF-BC5D-9CE63BD92F92}
 		{9ABFB0C3-2F2B-4F8F-8887-450B988FED55} = {6C14A681-0CAC-4691-A7D8-6A9714A91E22}
+		{727DA161-87D4-4A2F-AF88-C90CF9947AAF} = {EE0ED400-7332-4124-AD44-A7955077BA0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F3065853-4511-40F3-BD8E-AFA26F5A56C9}
